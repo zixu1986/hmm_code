@@ -1,0 +1,8 @@
+%% README
+
+This is a set of functions for learning HMM (for both discrete and continuous observations) using EM algorithms.
+
+
+HMM_EM.m:           EM learning for discrete HMM
+cont_HMM_EM.:       EM learning for single Gaussian observation HMM
+cont_HMM_kmeans:    initialize HMM using kmeans
